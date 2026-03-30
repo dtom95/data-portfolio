@@ -1,0 +1,11 @@
+Participant_ID,Group,Pre_Score,Post_Score
+P001,Control,4,6
+P002,Treatment,4,8
+P003,Control,5,6
+P004,Treatment,5,9
+P005,Control,3,5
+P006,Treatment,3,7
+P007,Control,6,7
+P008,Treatment,6,9
+P009,Control,4,5
+P010,Treatment,4,8
